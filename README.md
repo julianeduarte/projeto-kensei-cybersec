@@ -2,7 +2,7 @@
 
 Este repositório é dedicado à documentação e armazenamento dos projetos desenvolvidos no laboratório de operações cibernéticas da formação **Kensei CyberSec**.
 
-> **Premissa do Projeto:** "Gere um template nesse arquivo readme.md, nesse repositório vou colocar os projetos do laboratório de operações cibernéticas da formação Kensei CyberSec e o foco dessa formação é Inteligência Artificial, Automação, Dados e Cibersegurança"
+> **Prompt:** "Gere um template nesse arquivo readme.md, nesse repositório vou colocar os projetos do laboratório de operações cibernéticas da formação Kensei CyberSec e o foco dessa formação é Inteligência Artificial, Automação, Dados e Cibersegurança"
 
 ---
 
