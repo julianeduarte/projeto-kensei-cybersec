@@ -23,8 +23,6 @@ O objetivo deste espaço é demonstrar a aplicação prática de tecnologias ava
 ```text
 ├── 🧠 ai_models/            # Projetos envolvendo Machine Learning e LLMs para Segurança
 ├── 🤖 automation_scripts/   # Automação de tarefas com Python, Bash e ferramentas de CI/CD
-├── 📈 data_intelligence/    # Análise de logs, dashboards e processamento de dados (Pandas/ELK)
+├── 📈 data_intelligence/    # Análise de logs, dashboards e processamento de dados (Pandas ELK)
 ├── ⚔️ cyber_ops/            # Laboratórios de ataque, defesa e análise de malware
 └── 📄 docs/                 # Documentação técnica e relatórios de laboratório
-
-
